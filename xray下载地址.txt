@@ -1,2 +1,3 @@
-https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
-https://github.com/14760713542d/hkray/files/8749099/Xray-linux-64.zip
+https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip 最新
+https://github.com/14760713542d/hkray/files/8749099/Xray-linux-64.zip 1.5.0
+https://github.com/14760713542d/hkray/files/8749303/Xray-linux-64.zip 1.5.3
